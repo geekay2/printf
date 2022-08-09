@@ -4,7 +4,7 @@
  * _printf - Receives the main string and all the necessary parameters to
  * print a formatted string
  * @format: A string containing all the desired characters
- * Return: A total count of the characters printed
+ * Return: total count of the characters printed
  */
 int _printf(const char *format, ...)
 {
