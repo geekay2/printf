@@ -3,7 +3,6 @@
 .SH NAME
 
 .B _printf
-
 - A simple re-creation of the printf function
 
 .SH SYNOPSIS
