@@ -5,7 +5,7 @@
  * @c: The character to print
  *
  * Return: On success return 1
- * On error, -1 is returned, and errno is set appropriately.
+ * On error, -1 is returned, and errno is set appropriately
  */
 int _write_char(char c)
 {
